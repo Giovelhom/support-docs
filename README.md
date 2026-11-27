@@ -1,3 +1,7 @@
 # support-docs
-Beginner-friendly Git and GitHub troubleshooting guides, written as support documentation. Each guide covers the problem, cause, fix, and how to check it worked.
-My first support doc
+
+Troubleshooting guides written while learning Linux, Git, and GitHub.
+
+## Troubleshooting
+- [SSH: Permission denied (publickey)](troubleshooting/ssh-permission-denied-publickey.md)
+- [Git push rejected: fetch first](troubleshooting/git-push-rejected-fetch-first.md)
